@@ -1,3 +1,3 @@
 <?php
-$db = mysql_connect('localhost','root','CileLuki2019!','danilovadb') or die('Error');
+$db = mysqli_connect('localhost','root','','baza') or die('Error');
 ?>
